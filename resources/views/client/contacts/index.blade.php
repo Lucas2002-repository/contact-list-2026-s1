@@ -17,6 +17,7 @@
             <!-- repeat for each contact -->
 
             <!-- contact card -->
+            {{-- @dd($variable) --}}
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-zinc-900">
                     Contact Card here
